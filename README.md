@@ -13,29 +13,29 @@ A gamified habit tracker built with Kotlin and Jetpack Compose.
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/HomePage.png)
+![Home Screen](Screenshots/HomePage.png)
 
 ### Habits
 
 #### Habits Main Page
-![Habits Main Page](screenshots/Habitsmain.png)
+![Habits Main Page](Screenshots/Habitsmain.png)
 
 #### Add Habit
-![Adding Habit](screenshots/AddHabit.png)
+![Adding Habit](Screenshots/AddHabit.png)
 
 ### Workout Tracker
 
 #### Workout Tracking
-![Workout Tracker](screenshots/Tracker.png)
+![Workout Tracker](Screenshots/Tracker.png)
 
 #### Workout Progress
-![Workout Progress](screenshots/Tracker2.png)
+![Workout Progress](Screenshots/Tracker2.png)
 
 ### Leaderboard
-![Leaderboard](screenshots/Ranking.png)
+![Leaderboard](Screenshots/Ranking.png)
 
 ### User Profile
-![User Profile](screenshots/user_profile.png)
+![User Profile](Screenshots/user_profile.png)
 
 ### Settings
-![Settings](screenshots/settings.png)
+![Settings](Screenshots/settings.png)
