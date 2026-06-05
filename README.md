@@ -1,16 +1,22 @@
-# HabitRPG-Android
+# HabitRPG Android
 
-A gamified habit tracker Android application built with Kotlin and Jetpack Compose.
+A gamified habit tracker built with Kotlin and Jetpack Compose.
 
 ## Features
-- Habit tracking
-- XP and leveling system
+
+- Habit Tracking
+- XP & Leveling System
+- Workout Tracking
 - Notifications
-- Workout tracking
 - Leaderboards
 
-## Tech Stack
-- Kotlin
-- Android Studio
-- Jetpack Compose
-- MVVM Architecture
+## Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home.png)
+
+### Workout Tracker
+![Workout](screenshots/workout.png)
+
+### Leaderboard
+![Leaderboard](screenshots/leaderboard.png)
